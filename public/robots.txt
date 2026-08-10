@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://amanthakur.dev/sitemap.xml
+Sitemap: https://amanthakur.online/sitemap.xml
